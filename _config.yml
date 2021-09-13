@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @JiahaoJiang15
+  username               : &JiahaoJiang15
 facebook:
   username               :
   app_id                 :
