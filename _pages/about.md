@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year DPhil student in Clinical Medicine at Nuffield Department of Medicine, University of Oxford.
+I am a student in the DPhil Clinical Medicine program at Oxford under the supervision of [Chris O'Callaghan](https://www.ndm.ox.ac.uk/team/chris-ocallaghan) and [Lucy Davison](https://www.rvc.ac.uk/about/our-people/lucy-davison).
 
 **under construction*
 
