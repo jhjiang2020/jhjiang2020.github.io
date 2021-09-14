@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* **DPhil in Clinical Medicine, University of Oxford**, 2020 - 2024 (expected), NDM & Hertford
-* **B.E. in Food Science & Engineering with Honors, Zhejiang University**, 2016 - 2020, CAEFS & CKC
-* **Exchange student, UC Berkeley**, 2018 Fall, MCB
+* **University of Oxford, Oxford, UK** 
+  *  DPhil in Clinical Medicine, Nuffield Department of Medicine & Hertford College, 2020 - 2024 (expected)
+* **Zhejiang University, Hangzhou, ZJ, China**
+  *  B.E. in Food Science & Engineering with Honors, Chu Kochen Honors College, 2016 - 2020
+* **University of California, Berkeley**
+  *  Exchange student, Dept. of Molecular & Cell Biology, 2018 Fall
 
 Experience
 ======
@@ -30,9 +33,11 @@ Experience
   * Supervisor: [Professor Yu Zhang](https://person.zju.edu.cn/en/yzhang)
 
 * **July 2020 - Sept.2020: Graduate Research Assistant**, Oxford, UK
-  * Investing the molecular basis of atherosclerosis-related risk variants. 
-  * Utilizing single-cell sequencing techniques to decipher the cellular heterogeneity of oxLDL response in primary human cell models
-  
+  * Projects: 
+    1. Under Constructions
+    2. Under Constructions
+  * Supervisor: Dr. Yanchun Guo
+
 * **June 2019 - Aug. 2019: Summer Research Intern, Dept. Molecular Biology, Princeton University**, Princeton, NJ, US
   * Projects 
     1. Under Constructions
