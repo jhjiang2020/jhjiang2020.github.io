@@ -13,7 +13,7 @@ I am a student in the DPhil Clinical Medicine program at Oxford under the superv
 
  <img src="../images/rs72664324.png" width="598" height="327" class="center">
 
-Prior to my study at Oxford, I received my B.E. degree from Zhejiang University, China. My undergraduate thesis at the [Zhang lab](https://person.zju.edu.cn/en/yzhang) developed a ODE-based toxiocokinetic model of glycidyl-based chemicals (a common contaminant in processed food products). I have also worked in epidemiologic risk assessment, deep learning, and statistical modeling.
+Prior to my study at Oxford, I received my B.E. degree from Zhejiang University, China. My undergraduate thesis at the [Zhang lab](https://person.zju.edu.cn/en/yzhang) developed an ODE-based toxiocokinetic model of glycidyl-based chemicals (a common contaminant in processed food products). I have also worked in epidemiologic risk assessment, deep learning, and statistical modeling.
 
 
 I was a member of [the Mixed Class (Honors Program of Engineering)](http://ckc.zju.edu.cn/ckcen/34928/list.htm) at Zhejiang University (2017-2020), an exchange student at UC Berkeley (2018), and a summer research assistant at Princeton University (2019) supervised by [Professor Coleen Murphy](https://murphylab.princeton.edu/).
