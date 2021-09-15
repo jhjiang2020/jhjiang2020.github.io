@@ -49,7 +49,7 @@ Skills
   * **Proficient in R, Python and Unix Shell**
   * Experience with C and MATLAB
 * **Well-trained in bulk & single-cell sequencing data analyses**
-* Proficient in applying machine learning approaches to complex biological data 
+* Proficient in applying machine learning approaches to analyze complex biological data 
 
 Publications
 ======
