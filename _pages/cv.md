@@ -15,7 +15,7 @@ Education
   *  DPhil in Clinical Medicine, Nuffield Department of Medicine & Hertford College, 2020 - 2024 (expected)
 * **Zhejiang University, Hangzhou, ZJ, China**
   *  B.E. in Food Science & Engineering with Honors, Chu Kochen Honors College, 2016 - 2020
-* **University of California, Berkeley**
+* **University of California, Berkeley, CA, US**
   *  Exchange student, Dept. of Molecular & Cell Biology, 2018 Fall
 
 Experience
