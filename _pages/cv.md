@@ -39,8 +39,8 @@ Experience
   * Supervisor: Dr. Yanchun Guo
 
 * **June 2019 - Aug. 2019: Summer Research Intern, Dept. Molecular Biology, Princeton University**, Princeton, NJ, US
-  * Projects 
-    Forward genetic screen for genes that regulate reproductive aging in *C .elegans* 
+  * Projects:
+    * Forward genetic screen for genes that regulate reproductive aging in *C .elegans* 
   * Supervisor: [Professor Coleen Murphy](https://murphylab.princeton.edu/people/coleen-murphy)
   
 Skills
