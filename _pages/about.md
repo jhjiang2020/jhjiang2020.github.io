@@ -11,7 +11,7 @@ redirect_from:
 
 I am a student in the DPhil Clinical Medicine program at Oxford under the supervision of [Chris O'Callaghan](https://www.ndm.ox.ac.uk/team/chris-ocallaghan) and [Lucy Davison](https://www.rvc.ac.uk/about/our-people/lucy-davison). My research focuses on the molecular mechanisms of heritable astherosclerosis disease risk. Specifically, I use primary human cell models to study the transcriptional and epigenetic regulation at early stages of atherogenesis, integrate the resulting data with GWAS statistics to functionally annotate atherosclerotic SNPs, and hopefully identify novel mechanisms of susceptibility in atherosclerosis. 
 
- <img src="../images/rs72664324.png" width="598" height="327" class="center">
+ <img src="../images/rs72664324.png" width="600" height="330" class="center">
 
 Prior to my study at Oxford, I received my B.E. degree from Zhejiang University, China. My undergraduate thesis at the [Zhang lab](https://person.zju.edu.cn/en/yzhang) developed an ODE-based toxiocokinetic model of glycidyl-based chemicals (a common contaminant in processed food products). I have also worked in epidemiologic risk assessment, deep learning, and statistical modeling.
 
