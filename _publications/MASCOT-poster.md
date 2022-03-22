@@ -2,7 +2,7 @@
 title: "The transcriptomic landscape of immune dysregulation in Feline Infectious Peritonitis (FIP) - a fatal complication of systemic feline coronavirus infection"
 collection: publications
 permalink: /publication/2022-MASCOT-poster
-date: 2022-04
+date: 2022-04-08
 venue: 'EMBO workshop'
 paperurl: ''
 ---
