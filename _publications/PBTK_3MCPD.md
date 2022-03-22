@@ -2,7 +2,7 @@
 title: "Development of a physiologically based toxicokinetic model of 3-MCPD and glycidol in rats"
 collection: publications
 permalink: /publication/2021-PBTK-3MCPD
-date: 2021-11
+date: 2021-11-02
 venue: 'Under Review'
 paperurl: ''
 ---
