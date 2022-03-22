@@ -53,8 +53,16 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*  __Development of a physiologically based toxicokinetic model of 3-MCPD and glycidol in rats
+.__ Under Review <br>
+  *__Jiahao Jiang__<sup>#</sup>, Wei Jia<sup>#</sup>, Yu Zhang<sup>+</sup>* <br>
+*  __The transcriptomic landscape of immune dysregulation in Feline Infectious Peritonitis (FIP) - a fatal complication of systemic feline coronavirus infection
+.__ EMBO Workshop (2022) <br>
+  *T Hiron<sup>#</sup>, S Falcone, MD Wallace, S Binks, __J Jiang__, K Hughes, LJ Kennedy, J Mitchell, A Psifidi, R Tarlinton, CAO’Callaghan, E Barker, LJ Davison<sup>+</sup>* <br>
+* __The construction and application of physiologically based toxicokinetic models for acrylamide, glycidamide and their biomarkers in rats and humans.__ Chemosphere (2022) <br>
+  *Yaoran Li<sup>#</sup>, __Jiahao Jiang__, Qiao Wang, Li Zhu, Wei Jia, Xinyu Chen, Yu Zhang<sup>+</sup>* <br>
+  PMID: 34971622 DOI: 10.1016/j.chemosphere.2021.133458
+
+
 
 Last update: Mar 2022
